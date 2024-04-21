@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django,Deep Learning,Database**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](sahilsaurav2507)
 
 - 📝 I regularly write articles on [Hashnode,medium and linkedin](Hashnode,medium and linkedin)
 
