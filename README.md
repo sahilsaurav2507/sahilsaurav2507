@@ -3,17 +3,19 @@
 <img align = "right" alt ="coding" width = "400" src= "https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsaurav2507&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsaurav2507" /> </p>
 
-- 🌱 I’m currently learning **Django,Deep Learning,Database**
+- 🌱 I’m currently learning **AWS , LLM engineering and Deep Learning based on cloud **
 
 - 👨‍💻 All of my projects are available at [github](sahilsaurav2507)
+- 👨‍💻 i have also worked on hugging face for Fine tunning and RAG apps :: Sahil2507 <link = "https://huggingface.co/Sahil2507">
 
 - 📝 I regularly write articles on [Hashnode,medium and linkedin](Hashnode,medium and linkedin)
 
-- 💬 Ask me about **Python,ML ,Flask,Automation**
+- 💬 Ask me about **Python,ML,Flask, Automation,Huggingface**
 
 - 📫 How to reach me **sahilsaurav2507@gmail.com**
 
 - ⚡ Fun fact **I think I can communicate with anyone**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
