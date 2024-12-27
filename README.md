@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **AWS , LLM engineering and Deep Learning based on cloud **
 
 - 👨‍💻 All of my projects are available at [github](sahilsaurav2507)
-- 👨‍💻 i have also worked on hugging face for Fine tunning and RAG apps :: Sahil2507 <link = "https://huggingface.co/Sahil2507">
+- 👨‍💻 i have also worked on hugging face for Fine tunning and RAG apps :: Sahil2507 <link = "https://huggingface.co">
 
 - 📝 I regularly write articles on [Hashnode,medium and linkedin](Hashnode,medium and linkedin)
 
